@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>牛年大吉</title>
+		<style type="text/css">
+			p > span{
+				color: #001100;
+				background-color: #ffff11;
+			}
+			ul{
+				font-size: 20px;
+				font-family: 幼圆;
+				list-style: none;
+				background-color: gold;
+				text-align: center;
+			}
+		</style>
+		<link rel="stylesheet" href="css/new_file.css">
+	</head>
+	<body>
+		<ul>
+			<li>
+				Happy牛year,牛转乾坤；<br>
+				牛bi哄哄，牛气冲天<br>
+			</li>	
+			<li>
+				牛年快乐：身体牛、绩点牛、爱情牛，日子一天更比一天牛！<br>
+			</li>
+			<li>
+				凡是过往，皆为序章。<br>
+				愿去年所有的遗憾都是今年惊喜的铺垫。<br>
+			</li>
+			<li>
+				愿你眼里有光,心中有梦，脚下有路；<br>
+				目之所及皆是星辰大海，心中所期皆有春暖花开，步履所至无不一片坦途；<br>
+			</li>
+			<li>
+				所有快乐，无需假装；<br>
+				此生尽兴，赤诚善良；<br>
+			</li>
+			<li>
+				愿生活里有美食和热汤，行囊里有书本和远方。<br>
+				一切困难都能云淡风轻，每身孤独都拥抱共鸣。<br>
+			</li>
+			<li>
+				祝烦恼高阶无穷小，<br>
+				幸福连续且可导，<br>
+				理想一定洛必达，<br>
+				拉格朗日天天照，<br>
+				生活不单调，<br>
+				道路不凸凹，<br>
+				f'（心情）>0，lim GPA=5.0！<br>
+			</li>
+			<li>
+				新年的快乐时光是可微的，<br>
+				王子的真心祝福是连续的。<br>
+				2021，新春快乐！<br>
+			</li>
+		</ul>
+		<center><small>文案参考自网友</small></center>
+	</body>
+</html>
